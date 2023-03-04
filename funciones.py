@@ -5,3 +5,4 @@ def imprimir (variable):
 def captura():
     var = input("Introduzca un valor: ")
     return var
+
